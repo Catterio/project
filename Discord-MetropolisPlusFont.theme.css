@@ -1,0 +1,96 @@
+/**
+* @name Discord-MetropolisPlus
+* @author Catterio#4813
+* @description Sets the default font (gg sans) to Metropolis Plus.
+* @version 1.0.2
+* @source https://github.com/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/
+*/
+
+:root {
+    --font-primary: "Metropolis Plus", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+    --font-display: "Metropolis Plus", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: normal;
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-300.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: italic;
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-300It.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-400.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: italic;
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-400It.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: normal;
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-500.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: italic;
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-500It.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: normal;
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-600.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: italic;
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-600It.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-700.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: italic;
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-700It.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: normal;
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-800.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Metropolis Plus";
+    font-style: italic;
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/Discord-MetropolisFont/metropolis_plus/MetropolisPlus-800It.ttf") format("ttf");
+}
